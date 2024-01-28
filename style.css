@@ -32,27 +32,26 @@
     position: absolute;
     margin-right: 20px;
     bottom: 30vh;
-    left: 20%;
-    text-align: center;
+    left: 30px;
     font-size: 15px;
 }
 .homeWELCOMEtext{
     color: #fff;
     font-family: Montserrat;
-    font-size: 40px;
+    font-size: 20px;
     font-weight: 400;
 }
 .homeWELCOMEtext1{
     color: #fff;
     font-family: "Adobe Garamond Pro";
-    font-size: 54px;
+    font-size: 34px;
     font-weight: 700;
-    letter-spacing: 10.78px;
+    letter-spacing: 5.78px;
 }
 .homeWELCOMEtext2{
     color: #fff;
     font-family: Montserrat;
-    font-size: 25px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -444,7 +443,7 @@
 }
 
 .inner-text{
-    color: #14274A;
+color: #14274A;
 text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-size: 28px;
@@ -452,6 +451,13 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
+
+.img1 .img2 {
+
+    width: 40vw;
+}
+
+
 
 
 @media (max-width:720px) {
@@ -464,5 +470,10 @@ line-height: normal;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    }
+
+   .img1 .img2 {
+
+        width: 60vw;
     }
 }
