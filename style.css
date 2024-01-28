@@ -101,7 +101,7 @@ li select {
     height: 400px;
 } */
 
-@media only screen and (max-width: 940px) {
+@media only screen and (max-width: 950px) {
     .section2 {
         position: absolute;
         bottom: 0vh;
