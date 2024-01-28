@@ -412,7 +412,6 @@
     position: relative;
     z-index: 1;
 
-    width: 330px;
     /* Ensure the text is on top of the background image */
     color: #000;
 }
@@ -420,22 +419,22 @@
 .WELCOMEtext {
     color: #FFF;
     font-family: Montserrat;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
 }
 
 .WELCOMEtext1 {
     color: #FFF;
     font-family: "Adobe Garamond Pro";
-    font-size: 34px;
+    font-size: 20px;
     font-weight: 700;
-    letter-spacing: 10.78px;
+    letter-spacing: 5.78px;
 }
 
 .WELCOMEtext2 {
     color: #FFF;
     font-family: Montserrat;
-    font-size: 15px;
+    font-size: 10px;
     font-style: normal;
     font-weight: 400;
   
